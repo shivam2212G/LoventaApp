@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: '2 Demo Home Pag e'),
+      home: const MyHomePage(title: '5 Demo Home Pag e'),
     );
   }
 }
